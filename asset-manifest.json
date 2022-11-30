@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/createFakeUsers/static/css/main.7da797a1.css",
+    "main.js": "/createFakeUsers/static/js/main.0e5ea296.js",
+    "index.html": "/createFakeUsers/index.html",
+    "main.7da797a1.css.map": "/createFakeUsers/static/css/main.7da797a1.css.map",
+    "main.0e5ea296.js.map": "/createFakeUsers/static/js/main.0e5ea296.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7da797a1.css",
+    "static/js/main.0e5ea296.js"
+  ]
+}
